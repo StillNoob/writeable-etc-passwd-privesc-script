@@ -10,4 +10,4 @@ bash writeable_passwd_file.sh
 su still
 Password: StillNoob
 ```
-You are not root!  
+You are now root!  
