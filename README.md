@@ -1,4 +1,4 @@
-# Writeable /etc/passwd Exploitation
+# Writeable passwd file exploitation
 
 In most easy CTF's you may find /etc/passwd file to be writeable which is an easy wasy of getting `root` on a system. This small bash script will make it even more easier. 
 
